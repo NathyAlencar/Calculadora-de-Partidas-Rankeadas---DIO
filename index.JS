@@ -23,4 +23,4 @@ function calcularNivel(vitorias, derrotas) {
 let vitorias = 85;
 let derrotas = 20;
 let resultado = calcularNivel(vitorias, derrotas);
-Console.log(resultado); // Exibe: "O Herói tem saldo de 65 está no nível de Ouro"
+Console.log(resultado);
